@@ -1,0 +1,14 @@
+C:\Users\greds\OneDrive\Рабочий стол\GIT REPOSITORY\lesson5\lesson4\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\HW4_1.exe
+C:\Users\greds\OneDrive\Рабочий стол\GIT REPOSITORY\lesson5\lesson4\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\HW4_1.deps.json
+C:\Users\greds\OneDrive\Рабочий стол\GIT REPOSITORY\lesson5\lesson4\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\HW4_1.runtimeconfig.json
+C:\Users\greds\OneDrive\Рабочий стол\GIT REPOSITORY\lesson5\lesson4\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\HW4_1.dll
+C:\Users\greds\OneDrive\Рабочий стол\GIT REPOSITORY\lesson5\lesson4\ConsoleApp1\ConsoleApp1\bin\Debug\net8.0\HW4_1.pdb
+C:\Users\greds\OneDrive\Рабочий стол\GIT REPOSITORY\lesson5\lesson4\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\HW4_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\greds\OneDrive\Рабочий стол\GIT REPOSITORY\lesson5\lesson4\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\HW4_1.AssemblyInfoInputs.cache
+C:\Users\greds\OneDrive\Рабочий стол\GIT REPOSITORY\lesson5\lesson4\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\HW4_1.AssemblyInfo.cs
+C:\Users\greds\OneDrive\Рабочий стол\GIT REPOSITORY\lesson5\lesson4\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\HW4_1.csproj.CoreCompileInputs.cache
+C:\Users\greds\OneDrive\Рабочий стол\GIT REPOSITORY\lesson5\lesson4\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\HW4_1.dll
+C:\Users\greds\OneDrive\Рабочий стол\GIT REPOSITORY\lesson5\lesson4\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\refint\HW4_1.dll
+C:\Users\greds\OneDrive\Рабочий стол\GIT REPOSITORY\lesson5\lesson4\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\HW4_1.pdb
+C:\Users\greds\OneDrive\Рабочий стол\GIT REPOSITORY\lesson5\lesson4\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\HW4_1.genruntimeconfig.cache
+C:\Users\greds\OneDrive\Рабочий стол\GIT REPOSITORY\lesson5\lesson4\ConsoleApp1\ConsoleApp1\obj\Debug\net8.0\ref\HW4_1.dll
