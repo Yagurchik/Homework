@@ -16,7 +16,7 @@
                 Console.Write(members[i] + " ");
             }
         }
-        string[] MsvAndStr(string[] members, string value)
+        static string[] MsvAndStr(string[] members, string value)
         {
             if  (members == null || members.Length == 0 || value == null)
             {
@@ -39,6 +39,7 @@
                 members[members.Length - 1] = value;
                 return members;
             }
+            return members;
         }
     }
 }
